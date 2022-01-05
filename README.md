@@ -1,1 +1,5 @@
 # Tezos
+
+I am attesting that this GitHub handle ttimfu is linked to the Tezos account tz2WeUwCxLFDkJL9e2vGQB25ra9ychxMFiam for tzprofiles
+
+sig:spsig1dAWNzkFXjQUQTuFqyX57VLNYckUuXTcDWWVLfKFUjDCuj5ejr7mKKK2ASQWSPWn4PFpr3MvjYTJpAdXq18ec6JVvauzGr
